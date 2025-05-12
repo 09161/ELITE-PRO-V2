@@ -9,8 +9,8 @@ global.location = "Port Harcourt, Nigeria" //ur location
 //new settings 
 global.botname = 'Promise' //ur bot name
 global.ownernumber = '2349161974630' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
-global.websitex = "https://youtube.com/@elitepro-empire"
+global.ownername = 'Promise' //ur owner name
+global.websitex = "https://"
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg' // Change this image link to yours.
 
 global.themeemoji = '👨🏼‍💻'
